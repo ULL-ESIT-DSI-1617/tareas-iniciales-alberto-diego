@@ -12,12 +12,12 @@ Suponiendo que tenemos un código correspondiente a una página web, para inclui
 * Mediante Interfaz Gráfica:
 Github proporciona por cada repositorio una opción en la que indicamos la activación de una gh-page y hacia que rama queremos que apunte.
 
-<div style="text-align:center"><img style="width:40%; height:40%" src="images/gh-pagegui.png"/></div>
+<div style="text-align:center"><img style="width:70%; height:70%" src="images/gh-pagegui.png"/></div>
 
 * Mediante la creación directa de una rama **gh-pages**:
 Otra manera de publicar directamente una gh-page es crear una rama llamada **gh-pages** en la que alojemos ahí nuestro código de la página web.
 
-<div style="text-align:center"><img style="width:40%; height:40%" src="images/ghpagebranch.png"/></div>
+<div style="text-align:center"><img style="width:70%; height:70%" src="images/ghpagebranch.png"/></div>
 
 ### Módulo gh-pages despliegue automático
 Este script de Node.js usa el módulo gh-pages como interfaz para interactuar con el repositorio.
