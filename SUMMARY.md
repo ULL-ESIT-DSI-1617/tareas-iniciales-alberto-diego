@@ -9,7 +9,7 @@
   * [Git](Alberto/git/git.md)
 
 * [Información sobre Github](Alberto/github/README.md)
-  * [Github](Alberto/github/git.md)
+  * [Github](Alberto/github/github.md)
 
 * [Información sobre Gitbook](Alberto/gitbook/README.md)
   * [Gitbook](Alberto/gitbook/gitbook.md)
