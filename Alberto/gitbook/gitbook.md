@@ -64,8 +64,8 @@ En el caso de la creación del formato html, se nos creará un directorio adicio
 
 Por lo que si queremos finalmente subir nuestro repositorio local a uno remoto (en gitbook en este caso), y publicarlo con la metodología de Markdown, se deberá añadir la dirección de dicho repositorio remoto para luego empujarlo hacia gitbook:
 ```
-git remote add <direccion_repo_remoto_gitbook>
-git push <direccion_repo_remoto_gitbook> master
+git remote add alias <direccion_repo_remoto_gitbook>
+git push alias master
 ```
 
 
